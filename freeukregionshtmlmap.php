@@ -122,7 +122,7 @@ add_shortcode( 'freeukregionshtml5map', 'freeukregions_map_plugin_content' );
 
 function freeukregions_map_plugin_content($atts, $content) {
 
-    $dir               = WP_PLUGIN_URL.'/freeukregionshtmlmap/static/';
+    $dir               = WP_PLUGIN_URL.'/interactive-map-of-the-united-kingdom/static/';
     $siteURL           = get_site_url();
     $options           = get_site_option('freeukregionshtml5map_options');
     

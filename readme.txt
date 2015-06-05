@@ -1,7 +1,7 @@
 === Interactive Map of the United Kingdom ===
 Contributors: html5maps
 Donate link: http://www.fla-shop.com/
-Tags: map, maps, interactive map, html5 map, svg map, clickable map, dealer map, html5maps, united kingdom, uk, responsive map
+Tags: map, maps, interactive map, interactive uk map, html5 map, svg map, clickable map, dealer map, html5maps, united kingdom, uk, responsive map
 Requires at least: 3.3
 Tested up to: 4.2.2
 Stable tag: 2.4
