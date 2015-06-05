@@ -1,4 +1,4 @@
-=== Interactive Map of the United Kingdom ======
+=== Interactive Map of the United Kingdom ===
 Contributors: html5maps
 Donate link: http://www.fla-shop.com/
 Tags: map, maps, interactive map, html5 map, svg map, clickable map, dealer map, html5maps, united kingdom, uk, responsive map
@@ -31,7 +31,7 @@ Find other UK WordPress map plugins at [Fla-shop.com](http://www.fla-shop.com/co
 
 1. Use the Plugins -> Add new -> Upload menu and select plugin's zip file to open. 
 2. Wait for the upload to complete and activate the plugin.
-3. After that, insert the map short code `[freeukregionshtml5map id="0"]` into the text of a page or a post where you want the map to be.
+3. After that, insert the short code `[freeukregionshtml5map id="0"]` into the text of a page or a post where you want the map to be.
 
 Alternatively, upload the folder of the plugin to your `/wp-content/plugins/` folder then follow steps 2 and the rest as above.
 
@@ -54,6 +54,7 @@ Set the region's click option to "Show more info" in the Detailed Settings secti
 Any type WordPress can deal with.
 
 == Changelog ==
+
 = 2.4 =
 * Initial release.
 
